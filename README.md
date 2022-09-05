@@ -9,3 +9,4 @@ It now includes steps for GitHub.
 
 im Abschnitt push a branch to github
 
+Erneuter Durch- und Einlauf am 5.9.2022
